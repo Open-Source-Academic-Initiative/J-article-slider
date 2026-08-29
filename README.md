@@ -4,7 +4,6 @@ A lightweight **Joomla 5** site module that displays a horizontal, responsive
 row of hand-picked articles as cards ("related / suggested articles"), with a
 **Load more** control.
 
-
 ## Features
 
 - Show a curated set of articles chosen explicitly by **article ID**.
